@@ -41,5 +41,5 @@ The learning goal in this project was to both learn SolidJS and the -new- File A
 This allows for local file editing in a web page,
 this way I can offer a native experience without having to install the app (which you still can as it is a PWA)
 
-repo: [Calque](https://github.com/chris-kruining/calque)
+repo: [Calque](https://github.com/chris-kruining/calque)  
  app: [Live](https://ca-euw-prd-calque-app.purplecoast-f5b7f657.westeurope.azurecontainerapps.io/welcome)
